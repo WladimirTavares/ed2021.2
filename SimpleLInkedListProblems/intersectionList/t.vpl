@@ -1,0 +1,30 @@
+case=
+input=5
+1 2 3 4 6
+4
+2 4 6 8
+output="2 
+4
+6
+"
+grade reduction=100%
+
+case=
+input=5
+10 10 20 40 50
+3
+10 15 40
+output="10
+40
+"
+grade reduction=100%
+
+case=
+input=5
+1 2 3 4 6 
+3
+1 4 7
+output="1
+4
+"
+grade reduction=100%
